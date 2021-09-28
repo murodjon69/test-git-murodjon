@@ -1,0 +1,48 @@
+.header{
+    width: 1245px;
+    border: solid 2px black;
+    margin: 0 auto;
+}
+.Header1{
+    width: 100%;
+    display: flex;
+    /* justify-content: center; */
+
+}
+.tex1{
+    padding-left: 155px;
+    padding-top: 25px;
+  width: 450px;  
+}
+
+.tex2{
+   display: flex;
+   font-size: 18px;
+   align-items: center;
+   border: solid 1px;
+   width: 350px;
+   
+}
+.tex3{
+    display: flex;
+    font-size: 16px;
+    align-items: center;
+    border: solid 1px;
+    width: 350px;
+    margin-top: 60px;
+}
+.tex4{
+    display: flex;
+    font-size: 14px;
+    align-items: center;  
+    border: solid 1px;
+    width: 350px;
+    margin-top: 60px;
+}
+
+h1{
+    font-size: 48px;
+}
+.saprk{
+    font-size: 20px;
+}
